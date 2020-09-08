@@ -36,6 +36,7 @@ Pet Store uses a number of open source projects to work properly:
 - [Github](https://github.com/NehG) - Version control
 - [Enzyme](https://enzymejs.github.io/enzyme/) - For build Test driven web application
 - [Jest](https://jestjs.io/docs/en/tutorial-react) - Testing web application.
+- [LogRocket](https://logrocket.com) - Logger
 
 ## TEST COVERAGE
 
