@@ -1,6 +1,6 @@
 # PETSTORE - REACT-REDUX
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Edit zen-chandrasekhar-wlu1f](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/zen-chandrasekhar-wlu1f?fontsize=14&hidenavigation=1&theme=dark)
 
 The PET Store is build with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 It uses restAPI to perform all functionalitities like ADD, REMOVE, DELETE
@@ -8,13 +8,23 @@ It uses restAPI to perform all functionalitities like ADD, REMOVE, DELETE
 ### FUNCTIONALITY
 
 ✅ Add & remove element from list
+
 ✅ List Structure
+
 ✅ State and Store management using redux
+
 ✅ Ability to save and load application from local storage
-✅ Custuome API using express and node.js
+
+✅ Custom API using express and node.js
+
 ✅ Unit testing using Jest and Enzyme
 
-### Tech
+### STATE OVERVIEW
+
+![Initial State](https://i.imgur.com/EVRSF9E.png)
+
+
+### TECH
 
 Pet Store uses a number of open source projects to work properly:
 
