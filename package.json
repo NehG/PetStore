@@ -1,0 +1,45 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "1.4.0",
+    "axios": "0.20.0",
+    "axios-mock-adapter": "1.18.2",
+    "bootstrap": "4.5.2",
+    "lodash": "4.17.20",
+    "logrocket": "1.0.12",
+    "moment": "2.27.0",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-bootstrap": "1.3.0",
+    "react-dom": "16.13.1",
+    "react-redux": "7.2.1",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "redux": "4.0.5",
+    "uuid": "8.3.0",
+    "jest-localstorage-mock": "2.4.3",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.15.4"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "7.11.5",
+    "typescript": "3.8.3",
+    "@babel/core": "7.11.6",
+    "@babel/preset-env": "7.11.5",
+    "@types/jest": "26.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --setupFiles ./src/setupTests.js --env=jsdom --verbose --coverage",
+    "eject": "react-scripts eject"
+  },
+  "jest": {
+    "setupFiles": ["setupTests.js", "jest-localstorage-mock"]
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
