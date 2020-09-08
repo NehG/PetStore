@@ -36,3 +36,12 @@ Pet Store uses a number of open source projects to work properly:
 - [Github](https://github.com/NehG) - Version control
 - [Enzyme](https://enzymejs.github.io/enzyme/) - For build Test driven web application
 - [Jest](https://jestjs.io/docs/en/tutorial-react) - Testing web application.
+
+## TEST COVERAGE
+
+Redux Store
+![Redux Store](https://i.imgur.com/S00J0dq.png)
+
+React Component
+![React Components](https://i.imgur.com/ZfouM6P.png)
+
